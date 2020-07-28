@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src='snow.gif'> </img>
+<img src='https://github.com/chelyabinsk/chelyabinsk/blob/master/snow.gif'> </img>
 
 <!--
 **chelyabinsk/chelyabinsk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
