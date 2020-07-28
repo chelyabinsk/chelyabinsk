@@ -2,7 +2,7 @@
 
 <div class="row">
   <div class="column">
-    <img src="https://github.com/chelyabinsk/chelyabinsk/blob/master/snow.gif" alt="Snow" style="width:100%">
+    <img src="https://github.com/chelyabinsk/chelyabinsk/blob/master/snow.gif" alt="Snow" style="float:right" style="width:100%">
   </div>
   <div class="column">
     <img src="https://github.com/chelyabinsk/chelyabinsk/blob/master/snow.gif" alt="Forest" style="width:100%">
