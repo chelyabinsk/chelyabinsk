@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-<img src="https://github.com/chelyabinsk/chelyabinsk/blob/master/snow.gif" alt="Snow" style="float:right" style="width:100%">
-<img src="https://github.com/chelyabinsk/chelyabinsk/blob/master/snow.gif" alt="Forest" style="width:100%">
+Hii<img src="https://github.com/chelyabinsk/chelyabinsk/blob/master/snow.gif" alt="Snow" style="float:left" style="width:100%">
+<!--<img src="https://github.com/chelyabinsk/chelyabinsk/blob/master/snow.gif" alt="Forest" style="width:100%">
 <img src="https://github.com/chelyabinsk/chelyabinsk/blob/master/snow.gif" alt="Mountains" style="width:100%">
 <img src='https://github.com/chelyabinsk/chelyabinsk/blob/master/snow.gif'> </img>
-
+-->
 <!--
 **chelyabinsk/chelyabinsk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
