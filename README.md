@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hii<img src="https://github.com/chelyabinsk/chelyabinsk/blob/master/snow.gif" alt="Snow" style="float:left" style="width:100%">
+<a>hi</a> <img src="https://github.com/chelyabinsk/chelyabinsk/blob/master/snow.gif" alt="Snow" style="float:left" style="width:100%">
 <!--<img src="https://github.com/chelyabinsk/chelyabinsk/blob/master/snow.gif" alt="Forest" style="width:100%">
 <img src="https://github.com/chelyabinsk/chelyabinsk/blob/master/snow.gif" alt="Mountains" style="width:100%">
 <img src='https://github.com/chelyabinsk/chelyabinsk/blob/master/snow.gif'> </img>
